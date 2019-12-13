@@ -577,4 +577,13 @@ div{
 		color: skyblue;
 		cursor: pointer;
 	}
+	.apply{
+		margin-left: 60px;
+	}
+	.text4{
+		margin-left: 150px;
+	}
+	.img3{
+		margin-left: 20px;
+	}
 }
